@@ -13,15 +13,15 @@
      <a href="https:// www.google.com.vn">day se la duong dan toi google </a>
      <img src="img/hinhnen.jpg" alt="">
      <button>Click me </button>
-     <ul>
+     <ul>       
     <li> meal 1</li>
     <li> meal 1</li>
     <li> meal 1</li>
      </ul>
      <ol>
-            <li> meal 1</li>
-            <li> meal 1</li>
-            <li> meal 1</li>
+    <li> meal 1</li>
+    <li> meal 1</li>
+    <li> meal 1</li>
      </ol>
     </body>
 </html>
